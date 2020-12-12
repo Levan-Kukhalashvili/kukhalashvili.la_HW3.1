@@ -11,6 +11,8 @@
 		8499F0932583409A0064F44B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499F0922583409A0064F44B /* ContentView.swift */; };
 		8499F0952583409B0064F44B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8499F0942583409B0064F44B /* Assets.xcassets */; };
 		8499F0982583409B0064F44B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8499F0972583409B0064F44B /* Preview Assets.xcassets */; };
+		8499F0A62584CEA00064F44B /* TrafficLightColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499F0A52584CEA00064F44B /* TrafficLightColor.swift */; };
+		8499F0AC2584E63E0064F44B /* StartButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499F0AB2584E63E0064F44B /* StartButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		8499F0942583409B0064F44B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8499F0972583409B0064F44B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8499F0992583409B0064F44B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8499F0A52584CEA00064F44B /* TrafficLightColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightColor.swift; sourceTree = "<group>"; };
+		8499F0AB2584E63E0064F44B /* StartButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				8499F0902583409A0064F44B /* kukhalashvili_la_HW3_1App.swift */,
 				8499F0922583409A0064F44B /* ContentView.swift */,
+				8499F0A52584CEA00064F44B /* TrafficLightColor.swift */,
+				8499F0AB2584E63E0064F44B /* StartButton.swift */,
 				8499F0942583409B0064F44B /* Assets.xcassets */,
 				8499F0992583409B0064F44B /* Info.plist */,
 				8499F0962583409B0064F44B /* Preview Content */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8499F0932583409A0064F44B /* ContentView.swift in Sources */,
+				8499F0A62584CEA00064F44B /* TrafficLightColor.swift in Sources */,
+				8499F0AC2584E63E0064F44B /* StartButton.swift in Sources */,
 				8499F0912583409A0064F44B /* kukhalashvili_la_HW3_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
