@@ -35,6 +35,7 @@ struct ContentView: View {
                 TrafficLightColor(color: .green, opacity: greenOpacity)
                 Spacer()
                 StartButton(action: {
+                    bottonName = "Next"
                     
                     switch currentLight {
                     
